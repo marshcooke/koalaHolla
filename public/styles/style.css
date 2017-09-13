@@ -1,0 +1,14 @@
+body {
+    background-color: #948487;
+}
+
+h1 {
+    color: navy;
+}
+
+table {
+    border: 1px solid #ffffff;
+    margin: 1px; padding: 1px;
+    width: 100%;
+    table-layout: fixed;
+}
